@@ -1,6 +1,6 @@
 ## Ravichandra Malapati
-**<a href="https://linkedin.com/in/malapatiravi" target="_blank">Linkedin</a>** <br />
-**[Github](https://github.com/malapatiravi)** <br />
+**<a href="https://linkedin.com/in/RavichandraMalapati" target="_blank">Linkedin</a>** <br />
+**<a href="https://github.com/malapatiravi" target="_blank">Github</a>** <br />
 **Email:** Ravichandra.Malapati@gmail.com  <br />
 
 
