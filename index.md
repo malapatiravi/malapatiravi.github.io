@@ -1,38 +1,38 @@
 ## Ravichandra Malapati
-[Linkedin](https://linkedin.com/in/malapatiravi)                                  Email: Ravichandra.Malapati@gmail.com
-[Github](https://github.com/malapatiravi)
-You can use the [editor on GitHub](https://github.com/malapatiravi/malapatiravi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**<a href="https://linkedin.com/in/malapatiravi" target="_blank">Linkedin</a>** <br />
+**[Github](https://github.com/malapatiravi)** <br />
+**Email:** Ravichandra.Malapati@gmail.com  <br />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Work Experience
+**Position:** Lead Senior Software Engineer Autonomous Driving           
+**Organization:** Aptiv PLC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Duration:** Aug2019 - to present 
+* Working with Object Fusion to fuse Lidar, Radar, and Vision tracks for level 3/4 Autonomous Vehicle development.
+* Worked with various sensor/object  fusion algorithms, kalman filters, clustering and statistical techniques.
+* Lead a team to design and develop Centralized Fusion (Late Fusion) algorithm using Adaptive Autosar.
+* Designed and prototype Centralized Fusion algorithm using Random Forest and Single layer NN with raw features.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Position:** Developer Lead           
+**Organization:** Capgemini Americas Inc., &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Duration:** June 2017 - Aug 2019 
+* Worked with designing and development of Dynamic Occupancy Grid with Lidar and Radar point cloud data.
+* Build supervised ML models with various machine learning algorithms for using  SVM, Random-forest, Logistic regression, and Linear Regression. 
+* Worked with Body Control Module (BCM), Exterior Lighting Module (ELM) and Sensor Cleaning and Control Module(SCCM)
+* Developed Base software for Cortex M0 and Cortex M4 cores in Cypress MCU using classic autosar. 
 
-```markdown
-Syntax highlighted code block
+**Position:** Research Assistant,                                              
+**Organization:** Syracuse University, NY  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Duration:** Sep, 2015– May, 2017
+* Processed and handled big sensor data sets to build authentication and classification models for behavioral analytics.
+* Performed Exploratory Data Analysis, Data Cleaning, Pre-processing, Feature extraction with structured data and unstructured data as part of research for behavioural analytics using smart devices
+* Accomplished design and development of real time android based Acc and Gyr authentication system using Weka library
+* Implemented various feature extraction, combination, and selection techniques such as Correlation, Principal Component Analysis (PCA), Power Spectral Density (PSD), and Discrete Wavelet Transform (DWT).
 
-# Header 1
-## Header 2
-### Header 3
+**Position:** Senior Software Engineer       
+**Organization:** Robert Bosch India and Germany  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Duration:**  May, 2011 – Jul, 2015 
+* Lead a team of five to implement CAN Receive multiplexing and Transmit Mux reducing the number of buffers required.
+* Worked with 32 bit microcontroller Infineon Tricore TC1797, MultiCAN controller, vector CANAnalyzer.
 
-- Bulleted
-- List
+**Position:** Associate Consultant
+**Organization:** Oracle Financial Services    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Duration:**  Mar, 2010- Apr, 2011
+* Design and development of Quick-Screens for Anti Money Laundering (AML) project.
+* Development of database schemas for Quick Screens application for Citibank.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malapatiravi/malapatiravi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
