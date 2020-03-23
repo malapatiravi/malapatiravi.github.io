@@ -31,7 +31,7 @@
 * Lead a team of five to implement CAN Receive multiplexing and Transmit Mux reducing the number of buffers required.
 * Worked with 32 bit microcontroller Infineon Tricore TC1797, MultiCAN controller, vector CANAnalyzer.
 
-**Position:** Associate Consultant
+**Position:** Associate Consultant         
 **Organization:** Oracle Financial Services    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Duration:**  Mar, 2010- Apr, 2011
 * Design and development of Quick-Screens for Anti Money Laundering (AML) project.
 * Development of database schemas for Quick Screens application for Citibank.
